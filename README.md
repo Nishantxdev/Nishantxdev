@@ -64,9 +64,10 @@ A responsive Netflix-inspired web application built using **HTML, CSS, and JavaS
 - 🔍 Movie browsing interface
 - 🌐 Deployed on GitHub Pages
 
-**🔗 Live Demo:** [Netflix Clone](YOUR_GITHUB_PAGES_LINK)
+**🔗 Live Demo:** [Netflix Clone](https://nishantxdev.github.io/Netflix-Clone/
+)
 
-**📂 Source Code:** [GitHub Repository](YOUR_GITHUB_REPOSITORY_LINK)
+**📂 Source Code:** [GitHub Repository](https://github.com/Nishantxdev/Netflix-Clone.git)
 
 ---
 
