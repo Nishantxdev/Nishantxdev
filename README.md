@@ -55,7 +55,7 @@ A task management application for creating, updating and managing daily tasks.
 
 **Tech:** React.js • Next.js • MongoDB
 
-### 🎬 Netflix Clone
+## 🎬 Netflix Clone
 
 A responsive Netflix-inspired web application built using **HTML, CSS, and JavaScript**.
 
