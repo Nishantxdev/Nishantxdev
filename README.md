@@ -74,7 +74,7 @@ A fully responsive weather forecasting web application built with **Next.js** an
 
 🔗 **Live Website:** [skyco.tech](https://skyco.tech)
 
-🔗 **Repository:** [SkyCo Weather](https://github.com/your-username/skyco-weather)
+🔗 **Repository:** [SkyCo Weather](https://github.com/Nishantxdev/skyco-weather)
 
 **Tech Stack:** Next.js · React.js · JavaScript · CSS · REST APIs
 
