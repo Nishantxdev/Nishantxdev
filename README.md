@@ -68,6 +68,16 @@ A responsive Netflix-inspired web application built using **HTML, CSS, and JavaS
 
 **📂 Source Code:** [GitHub Repository](https://github.com/Nishantxdev/Netflix-Clone.git)
 
+## 🌦️ SkyCo Weather
+
+A fully responsive weather forecasting web application built with **Next.js** and **React.js**, focused on REST API integration, real-time data fetching, location-based weather updates, and dynamic data rendering.
+
+🔗 **Live Website:** [skyco.tech](https://skyco.tech)
+
+🔗 **Repository:** [SkyCo Weather](https://github.com/your-username/skyco-weather)
+
+**Tech Stack:** Next.js · React.js · JavaScript · CSS · REST APIs
+
 ---
 
 ## 📚 Currently Learning
